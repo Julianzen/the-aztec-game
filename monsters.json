@@ -69,9 +69,20 @@
    "8": {
     "name": "Ahuizotl",
     "description": "A dog like creature with an additional hand for a tail.",
-    "hp": 40,
+    "hp": 30,
     "damage": 10,
     "speed": 50,
     "courage": 10
   }
+
+ "9": {
+    "name": "Teuzauhtototl",
+    "description": "An owl that calls of death.",
+    "hp": 50,
+    "damage": 15,
+    "speed": 30,
+    "courage": 10
+  }
+
+
 }
