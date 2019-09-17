@@ -9,7 +9,7 @@
   },
   "1": { 
     "name": "The Cihuateteo",
-    "description": "A female aztec ghost warrior appeared.",
+    "description": "A female aztec ghost warrior, who has died from childbirth.",
     "hp": 150,
     "damage": 20,
     "speed": 15,
@@ -17,7 +17,7 @@
   },
   "2": {
     "name": "Centzon Totochtin",
-    "description": "An aggressive mystical rabbit has appeared.",
+    "description": "One of a group of aggressive mystical rabbit.",
     "hp": 20,
     "damage": 5,
     "speed": 40,
@@ -25,7 +25,7 @@
   },
   "3": {
     "name": "Big Axolotl",
-    "description": "A pale dog sized amphibian with gills appeared.",
+    "description": "A pale dog sized amphibian with gills.",
     "hp": 40,
     "damage": 1,
     "speed": 10,
@@ -33,7 +33,7 @@
   },
   "4": {
     "name": "Giant Axolotl",
-    "description": "A pale porsche sized amphibian with gills appeared.",
+    "description": "A pale porsche sized amphibian with gills.",
     "hp": 100,
     "damage": 2,
     "speed": 12,
@@ -41,7 +41,7 @@
   },
   "5": {
     "name": "Yahui",
-    "description": "A giant reptillian creature with a turtle shell andflint claws appeared.",
+    "description": "A giant reptillian creature with a turtle shell andflint claws.",
     "hp": 35,
     "damage": 20,
     "speed": 12,
@@ -49,7 +49,7 @@
   },
   "6": {
     "name": "Ceyuatl",
-    "description": "A giant frog with a small stone knife appeared.",
+    "description": "A giant frog with a small stone knife.",
     "hp": 30,
     "damage": 5,
     "speed": 6,
@@ -58,10 +58,20 @@
   
    "7": {
     "name": "Mega axolotl",
-    "description": "A bus sized amphibian with gills appeared.",
+    "description": "A bus sized amphibian with gills.",
     "hp": 300,
     "damage": 5,
     "speed": 14,
+    "courage": 10
+  }
+
+
+   "8": {
+    "name": "Ahuizotl",
+    "description": "A dog like creature with an additional hand for a tail.",
+    "hp": 40,
+    "damage": 10,
+    "speed": 50,
     "courage": 10
   }
 }
