@@ -19,7 +19,12 @@ namespace the_aztec_game
             string occupation = Console.ReadLine();
 
             player = new Player(name, occupation);
-
+            
+            if(player.occupation == "Soccer Player")
+            {
+                player.stats["speed"] += 5;  
+            }
+            
             int characterPoints = 200;
 
             typewriterStyleOutput(string.Format(@"
